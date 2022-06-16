@@ -59,6 +59,16 @@ const users = [
     hometown: "Hoằng Hóa - Thanh Hóa",
     link: "https://users-qr-code.netlify.app/users/6",
   },
+  {
+    id: 7,
+    image: "/LeNhuanPhat.jpg",
+    name: "Nhuan Phat",
+    fullName: "Le Nhuan Phat",
+    sub_title: "ʚ Dame ɞ",
+    university: "Ha Noi",
+    hometown: "Thọ Xuân - Thanh Hóa",
+    link: "https://users-qr-code.netlify.app/users/7",
+  },
 ];
 
 export { users };
